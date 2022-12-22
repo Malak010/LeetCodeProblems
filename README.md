@@ -1,0 +1,1 @@
+A place to store Solutions of easy Leet Code Problems
